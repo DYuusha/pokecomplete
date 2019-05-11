@@ -13,4 +13,6 @@ When insert finish the database in firebase get actualized, with a team name and
 
 Team has all the teams that you make in the app, and a button with which you can delete them.
 
+The application has a custom font called Lato.
+
 That's all folks.
