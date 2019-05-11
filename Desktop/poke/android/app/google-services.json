@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963976667270",
+    "firebase_url": "https://pokemondos-42201.firebaseio.com",
+    "project_id": "pokemondos-42201",
+    "storage_bucket": "pokemondos-42201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963976667270:android:c0d5ad598fb0535c",
+        "android_client_info": {
+          "package_name": "com.poke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963976667270-ogqmcaochgbh876i31ur8rtmvjel133o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIs-OD5y6vFUHKPp4Uk_gsnm9qHqtWBvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963976667270-ogqmcaochgbh876i31ur8rtmvjel133o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
